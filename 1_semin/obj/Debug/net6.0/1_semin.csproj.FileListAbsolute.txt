@@ -1,0 +1,15 @@
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.csproj.AssemblyReference.cache
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.AssemblyInfoInputs.cache
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.AssemblyInfo.cs
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.csproj.CoreCompileInputs.cache
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\bin\Debug\net6.0\1_semin.exe
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\bin\Debug\net6.0\1_semin.deps.json
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\bin\Debug\net6.0\1_semin.runtimeconfig.json
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\bin\Debug\net6.0\1_semin.dll
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\bin\Debug\net6.0\1_semin.pdb
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.dll
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\refint\1_semin.dll
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.pdb
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\1_semin.genruntimeconfig.cache
+C:\Users\funpa\Desktop\GB\Знакомство с С#\1_semin\obj\Debug\net6.0\ref\1_semin.dll
