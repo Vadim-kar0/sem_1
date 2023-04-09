@@ -1,14 +1,10 @@
-﻿Console.Write("Введите - числа");
+﻿Console.WriteLine("Введите число: ");
 string text = Console.ReadLine();
-int a = Convert.ToInt32(text);
-string text1 = Console.ReadLine();
-int b = Convert.ToInt32(text1);
-
-if(a * a == b)
+int number = Convert.ToInt32(text);
+int negativeNumber = number * -1;
+while (negativeNumber <= number)
 {
-    Console.WriteLine("Число является квадратом");
-}
-else
-{
-    Console.Write("число не является квадратом");
+    Сonsole.Write(negativeNumber);
+    Сonsole.Write(" ");
+    negativeNumber++;
 }
